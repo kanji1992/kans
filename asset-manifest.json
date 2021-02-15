@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/kans/static/css/main.9acc5525.chunk.css",
+    "main.js": "/kans/static/js/main.a756c292.chunk.js",
+    "main.js.map": "/kans/static/js/main.a756c292.chunk.js.map",
+    "runtime-main.js": "/kans/static/js/runtime-main.d2d471cb.js",
+    "runtime-main.js.map": "/kans/static/js/runtime-main.d2d471cb.js.map",
+    "static/css/2.78afd4a5.chunk.css": "/kans/static/css/2.78afd4a5.chunk.css",
+    "static/js/2.90fd1c5c.chunk.js": "/kans/static/js/2.90fd1c5c.chunk.js",
+    "static/js/2.90fd1c5c.chunk.js.map": "/kans/static/js/2.90fd1c5c.chunk.js.map",
+    "index.html": "/kans/index.html",
+    "static/css/2.78afd4a5.chunk.css.map": "/kans/static/css/2.78afd4a5.chunk.css.map",
+    "static/css/main.9acc5525.chunk.css.map": "/kans/static/css/main.9acc5525.chunk.css.map",
+    "static/js/2.90fd1c5c.chunk.js.LICENSE.txt": "/kans/static/js/2.90fd1c5c.chunk.js.LICENSE.txt",
+    "static/media/car.7e061dcf.svg": "/kans/static/media/car.7e061dcf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2d471cb.js",
+    "static/css/2.78afd4a5.chunk.css",
+    "static/js/2.90fd1c5c.chunk.js",
+    "static/css/main.9acc5525.chunk.css",
+    "static/js/main.a756c292.chunk.js"
+  ]
+}
